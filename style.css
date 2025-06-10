@@ -66,20 +66,20 @@ img.four {
 
 }
 .gift1:hover {
-    background-image: url("images/happy.gif");
+    background-image: url("happy.gif");
     
 }
 
 #hot-gift:hover {
-    background-image: url("images/hot.gif")
+    background-image: url("hot.gif")
 }
 
 #badass-gift:hover {
-    background-image: url("images/badass.gif")
+    background-image: url("badass.gif")
 }
 
 #cheers-gift:hover {
-    background-image: url("images/cheers.gif")
+    background-image: url("cheers.gif")
 }
 
 .first-gift-div {
